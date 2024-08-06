@@ -1,0 +1,6 @@
+pandas
+nltk
+scikit-learn
+uvicorn
+joblib
+fastApi
